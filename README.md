@@ -2,7 +2,7 @@
 
 
 
-Exercicio 3 de GCM
+Exercicio 3 de GCM.
 
 #Gestão de Configurações
 
